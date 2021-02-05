@@ -4,5 +4,5 @@ A decade ago, when the Human Microbiome Project was starting, urinary tract (UT)
 
 Here we deposit original QIIME input files for two models described in the manuscript. 
 
-1.  Supplementary Dataset 1.rar #containing input files for the pooled patient sequence data
-2.  Supplementary Dataset 2.rar #containing original input files for the single patient longitudinal study (eight 24hrs time points)
+1.  Supplementary Dataset 2.rar #containing input files for the pooled patient sequence data
+2.  Supplementary Dataset 3.rar #containing original input files for the single patient longitudinal study (eight 24hrs time points)
